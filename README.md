@@ -11,3 +11,4 @@ This repository is for personal reading excerpts.
 # 2024
 1. ダンス・ダンス・ダンス 舞！舞！舞！
 2. 我想做一个能在你的葬礼上描述你一生的人 - 贾平凹（等）
+3. 河神 鬼水怪谈 - 天下霸唱
